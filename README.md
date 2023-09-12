@@ -1,6 +1,4 @@
-# Project Description
-# Abstract
-
+## Abstract
 The food ordering app has the following sections:
 
 Navbar: This is the top section of the app and it contains the app name, and search bar and a Button of add to cart. The navbar is responsive and changes its layout depending on the screen size.
