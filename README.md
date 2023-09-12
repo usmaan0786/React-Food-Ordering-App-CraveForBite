@@ -13,8 +13,6 @@ Top Picks: This section displays a list of the app's top-rated food items.
 
 Meals: This section contains a list of food categories. When a category is clicked, it shows a list of the corresponding food items.
 
-The following hooks are used in the food ordering app:
-
 Design: I will employ Tailwind CSS to give the website a sleek ,modern look and a Responsive Design.
 
 Functionality: React, along with some incredible hooks like useState for manage the state of the app, such as the current navbar state, useEffect for used to run side effects, such as fetching data, useReducer fors 
