@@ -13,7 +13,7 @@ Meals: This section contains a list of food categories. When a category is click
 
 Design: I will employ Tailwind CSS to give the website a sleek ,modern look and a Responsive Design.
 
-Functionality: React, along with some incredible hooks like useState for manage the state of the app, such as the current navbar state, useEffect for used to run side effects, such as fetching data, useReducer fors 
+Functionality: React, along with some incredible hooks like useState for manage the state of the app, such as the current navbar state, useEffect for used to run side effects, such as fetching data, useReducer for 
 managing the most complex state which powers the dynamic features.
 
 Seamless Data Management: Leveraging the Context API and useContext hook to keep data flowing smoothly throughout the app.
