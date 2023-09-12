@@ -1,6 +1,20 @@
 # Project Description
 # Abstract
-This Food ordering app contains 
+
+The food ordering app has the following sections:
+
+Navbar: This is the top section of the app and it contains the app name, and search bar and a Button of add to cart. The navbar is responsive and changes its layout depending on the screen size.
+Slider: This is a section that displays a variety of food images. The slider is made using the React-splide library.
+Quick Delivery: This section contains text that promotes the app's quick delivery service.
+Top Picks: This section displays a list of the app's top-rated food items.
+Meals: This section contains a list of food categories. When a category is clicked, it shows a list of the corresponding food items.
+
+The following hooks are used in the food ordering app:
+
+Design: I will employ Tailwind CSS to give the website a sleek ,modern look and a Responsive Design.
+Functionality: React, along with some incredible hooks like useState for manage the state of the app, such as the current navbar state, useEffect for used to run side effects, such as fetching data, useReducer fors managing the most complex state which powers the dynamic features.
+Seamless Data Management: Leveraging the Context API and useContext hook to keep data flowing smoothly throughout the app.
+
 ## Video
 ![1](https://github.com/usmaan0786/React-Food-Ordering-App-CraveForBite/assets/72275107/4eac9c2e-5b8a-4670-8e42-65ba29cf6521)
 ## Images
