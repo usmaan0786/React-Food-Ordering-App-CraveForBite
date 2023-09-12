@@ -1,8 +1,8 @@
 # Project Description
 
-# Video
+## Video
 ![1](https://github.com/usmaan0786/React-Food-Ordering-App-CraveForBite/assets/72275107/4eac9c2e-5b8a-4670-8e42-65ba29cf6521)
-#Images
+## Images
 ![1(b)](https://github.com/usmaan0786/React-Food-Ordering-App-CraveForBite/assets/72275107/76484367-68c4-42c1-93df-e916327c51f6)
 ![2](https://github.com/usmaan0786/React-Food-Ordering-App-CraveForBite/assets/72275107/fabb2eee-1aee-4147-85ef-61ef8b28f55d)
 ![3](https://github.com/usmaan0786/React-Food-Ordering-App-CraveForBite/assets/72275107/82fa8d35-a212-4b3e-80eb-b308834102a9)
