@@ -20,14 +20,19 @@ managing the most complex state which powers the dynamic features.
 
 Seamless Data Management: Leveraging the Context API and useContext hook to keep data flowing smoothly throughout the app.
 
-## Video
+## Video Full Screen
 ![1](https://github.com/usmaan0786/React-Food-Ordering-App-CraveForBite/assets/72275107/4eac9c2e-5b8a-4670-8e42-65ba29cf6521)
+
+## Mobile View
+https://github.com/usmaan0786/React-Food-Ordering-App-CraveForBite/assets/72275107/92210d24-9ca0-492b-994a-7dcebbd90a0a
+
 ## Images
 ![1(b)](https://github.com/usmaan0786/React-Food-Ordering-App-CraveForBite/assets/72275107/76484367-68c4-42c1-93df-e916327c51f6)
 ![2](https://github.com/usmaan0786/React-Food-Ordering-App-CraveForBite/assets/72275107/fabb2eee-1aee-4147-85ef-61ef8b28f55d)
 ![3](https://github.com/usmaan0786/React-Food-Ordering-App-CraveForBite/assets/72275107/82fa8d35-a212-4b3e-80eb-b308834102a9)
 ![4](https://github.com/usmaan0786/React-Food-Ordering-App-CraveForBite/assets/72275107/aa8a122d-3524-4e79-b098-82100f6dade8)
 ![5](https://github.com/usmaan0786/React-Food-Ordering-App-CraveForBite/assets/72275107/a8b77b0d-01f1-4a09-8282-a229f2979a31)
+
 
 
 # React + Vite
