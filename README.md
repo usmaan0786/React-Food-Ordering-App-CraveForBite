@@ -3,10 +3,10 @@
 
 The food ordering app has the following sections:
 
-Navbar: This is the top section of the app and it contains the app name, and search bar and a Button of add to cart. The navbar is responsive and changes its layout depending on the screen size.
-Slider: This is a section that displays a variety of food images. The slider is made using the React-splide library.
-Quick Delivery: This section contains text that promotes the app's quick delivery service.
-Top Picks: This section displays a list of the app's top-rated food items.
+:- Navbar: This is the top section of the app and it contains the app name, and search bar and a Button of add to cart. The navbar is responsive and changes its layout depending on the screen size.
+:- Slider: This is a section that displays a variety of food images. The slider is made using the React-splide library.
+:- Quick Delivery: This section contains text that promotes the app's quick delivery service.
+:- Top Picks: This section displays a list of the app's top-rated food items.
 Meals: This section contains a list of food categories. When a category is clicked, it shows a list of the corresponding food items.
 
 The following hooks are used in the food ordering app:
