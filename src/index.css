@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+
+body{
+   @apply bg-[#333333] text-white ease-linear duration-100 text-[.9rem]
+}
+
+button{
+  @apply  hover:text-[#ff5f5f] hover:bg-[#fffc] hover:scale-105 p-1 px-2 font-bold rounded-[.5rem] ease-linear duration-100 bg-[#ff5f5f] text-white
+}
+@tailwind utilities;
+
+
+/* font-inter
+font-luckiest-guy
+font-poppins 
+bg-[#cccc]
+easy-out duration-200
+*/
+
+/* button ff5f5f */
+/* darkgrey-[#1b1b1bcc] */
